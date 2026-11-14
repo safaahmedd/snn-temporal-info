@@ -8,5 +8,6 @@ checkpoints/
 *.tar.gz
 *.zip
 __pycache__/
+*.pyc
 .ipynb_checkpoints/
 .env
